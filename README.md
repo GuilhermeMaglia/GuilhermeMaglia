@@ -7,11 +7,11 @@
 
 ### 🚀 Sobre Mim
 
-🔭 Atualmente explorando novas fronteiras no desenvolvimento de software e tecnologias escaláveis.
+🔭   Atualmente focado em aprimorar minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
 
-🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+💻   Estudante de Análise e Desenvolvimento de Sistemas.
 
-⚡ Comprometido em criar soluções eficientes e aprender algo novo todos os dias.
+⚡   Comprometido em criar soluções eficientes e aprender algo novo todos os dias.
 
 <br/>
 
