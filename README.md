@@ -7,23 +7,23 @@
 
 ### 🚀 Sobre Mim
 
-🔭   Atualmente focado em aprimorar minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
+🔭    Atualmente focado em aprimorar minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
 
-💻   Estudante de Análise e Desenvolvimento de Sistemas.
+💻    Estudante de Análise e Desenvolvimento de Sistemas.
 
-⚡   Comprometido em criar soluções eficientes e aprender algo novo todos os dias.
+⚡    Comprometido em criar soluções eficientes e aprender algo novo todos os dias.
 
 <br/>
 
 <div align="center">
-  <a href="">
+  <a href="https://github.com/GuilhermeMaglia">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/GuilhermeMaglia?color=A855F7&style=for-the-badge&labelColor=1E293B&logo=star&label=estrelas"
     />
   </a>
-  <a href="">
+  <a href="https://github.com/GuilhermeMaglia?tab=followers">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
@@ -37,10 +37,10 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-maglia-234b133b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-maglia-234b133b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbzThX3WASnajEriXtDEUDw%3D%3D" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:guipmagliad@gmail.com">
@@ -57,18 +57,29 @@
   <img align="left" alt="Node.js" title="Node.js" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="React" title="React" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="left" alt="Python" title="Python" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <br/><br/>
 
-
+### 📊 Estatísticas
 
 <p align="center">
   <img 
     align="center" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=dracula&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&include_all_commits=true" 
+  />
+  
+  <br/>
+  
+  <img 
+    align="center" 
+    alt="Guilherme's GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeMaglia&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&show_icons=true&rank_icon=github" 
   />
 </p>
 
