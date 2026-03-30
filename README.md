@@ -66,22 +66,21 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    align="center" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&include_all_commits=true" 
+ <img 
+  align="center" 
+  alt="Top Languages" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&include_all_commits=true&hide=html,css&size_weight=0.5&count_weight=0.5&langs_count=7" 
+/>
   />
   
   <br/>
-  
   <img 
-    align="center" 
-    alt="Guilherme's GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeMaglia&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&show_icons=true&rank_icon=github" 
-  />
-</p>
+  align="center" 
+  alt="GitHub Streak" 
+  height="180" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" 
+/>
 
 <br/>
 
