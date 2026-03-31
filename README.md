@@ -67,12 +67,12 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" alt="GitHub Streak" />
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GuilhermeMaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
 <br/>
 
 ---
