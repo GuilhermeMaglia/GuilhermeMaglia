@@ -66,7 +66,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=dark&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&langs_count=7" alt="Top Languages" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" alt="GitHub Streak" />
 </p>
 <br/>
