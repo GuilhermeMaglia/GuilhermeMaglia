@@ -1,29 +1,30 @@
 # GuilhermeMaglia
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Guilherme!;Desenvolvedor+full+stack,;Entusiasta+da+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Guilherme!;Desenvolvedor+full+stack;Entusiasta+da+Tecnologia" alt="Typing SVG" />
   </a>
 </p>
 
 ### 🚀 Sobre Mim
 
-🔭    Atualmente focado em aprimorar minhas habilidades em desenvolvimento de software e arquitetura de sistemas.
+Aprimorando constantemente minhas habilidades em desenvolvimento de software, arquitetura de sistemas e banco de dados relacionais e não relacionais.
 
-💻    Estudante de Análise e Desenvolvimento de Sistemas.
-
-⚡    Comprometido em criar soluções eficientes e aprender algo novo todos os dias.
+* 💻 Estudante de Análise e Desenvolvimento de Sistemas.
+* 🔭 Focado em construir aplicações web modernas, escaláveis e eficientes.
+* ⚡ Comprometido em solucionar problemas complexos através de código limpo e boas práticas.
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/GuilhermeMaglia">
+  <a href="">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/GuilhermeMaglia?color=A855F7&style=for-the-badge&labelColor=1E293B&logo=star&label=estrelas"
     />
   </a>
-  <a href="https://github.com/GuilhermeMaglia?tab=followers">
+  <a href="">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
@@ -37,13 +38,13 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-maglia-234b133b9/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:guipmagliad@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -51,23 +52,24 @@
 ### 🤖 Tech Stack
 
 <div style="display: inline_block">
-  <img align="left" alt="HTML5" title="HTML5" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JS" title="JavaScript" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Node.js" title="Node.js" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="React" title="React" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="left" alt="Python" title="Python" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="MySQL" title="MySQL" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="MongoDB" title="MongoDB" width="40" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="HTML5" title="HTML5" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" title="CSS3" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JS" title="JavaScript" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Node.js" title="Node.js" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="React" title="React" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" alt="Python" title="Python" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Prisma" title="Prisma ORM" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="left" alt="MongoDB" title="MongoDB" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" alt="GitHub Streak" />
+  <img height="180" style="padding-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
