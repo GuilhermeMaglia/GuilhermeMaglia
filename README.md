@@ -1,84 +1,85 @@
 # GuilhermeMaglia
 
-<p align="center">
+<div align="center">
+  
+  <!-- Banner de Boas-Vindas Dinâmico -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Guilherme!;Desenvolvedor+full+stack;Entusiasta+da+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=BC6FF1&center=true&width=500&lines=%E2%96%B6+GUILHERME+MAGLIA;FULL+STACK+DEVELOPER;TECH+ENTHUSIAST" alt="Typing SVG" />
   </a>
-</p>
 
-### 🚀 Sobre Mim
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-DEVELOPING-8A2BE2?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/LOCATION-PELOTAS%20%2F%20RS-00F5FF?style=flat-square" alt="Localização"/>
+  </p>
 
-Aprimorando constantemente minhas habilidades em desenvolvimento de software, arquitetura de sistemas e banco de dados relacionais e não relacionais.
+  <!-- Badges de Engajamento Minimalistas -->
+  <a href="">
+    <img alt="Estrelas" src="https://img.shields.io/github/stars/GuilhermeMaglia?style=for-the-badge&logo=github&color=8A2BE2&labelColor=121214"/>
+  </a>
+  <a href="">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/GuilhermeMaglia?style=for-the-badge&logo=github&color=00F5FF&labelColor=121214"/>
+  </a>
 
-* 💻 Estudante de Análise e Desenvolvimento de Sistemas.
-* 🔭 Focado em construir aplicações web modernas, escaláveis e eficientes.
-* ⚡ Comprometido em solucionar problemas complexos através de código limpo e boas práticas.
+</div>
 
 <br/>
+
+## 🌐 Módulos do Sistema // Sobre Mim
+
+```json
+{
+  "nome": "Guilherme Maglia",
+  "cargo": "Desenvolvedor Full Stack",
+  "foco_atual": ["Arquitetura de Sistemas", "Modelagem de Dados"],
+  "academic": "Análise e Desenvolvimento de Sistemas",
+  "missao": "Transformar lógica complexa em experiências fluidas e eficientes."
+}
+```
+## 🛠️ Matrix Tecnológica // Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>Frontend</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>Backend & ORM</h3>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>Databases</h3>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+## 🤝 Protocolos de Conexão // Redes
 
 <div align="center">
-  <a href="">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/GuilhermeMaglia?color=A855F7&style=for-the-badge&labelColor=1E293B&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeMaglia?color=C084FC&labelColor=1E293B&style=for-the-badge&logo=github&label=seguidores"
-    />
-  </a>
-</div>
-
-<br/>
-
-### 🌐 Conecte-se Comigo
-
-<p align="left">
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-### 🤖 Tech Stack
-
-<div style="display: inline_block">
-  <img align="left" alt="HTML5" title="HTML5" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JS" title="JavaScript" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Node.js" title="Node.js" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="React" title="React" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="left" alt="Python" title="Python" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="Prisma" title="Prisma ORM" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img align="left" alt="MySQL" title="MySQL" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="MongoDB" title="MongoDB" width="40" style="padding-right: 15px; padding-bottom: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
-
-<br/><br/><br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180" style="padding-bottom: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMaglia&theme=transparent&currStreakNum=A855F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=A855F7&stroke=A855F7&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMaglia&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
-<br/>
-
----
-<p align="center">
-Desenvolvido por Guilherme Maglia
-</p>
